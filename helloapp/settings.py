@@ -57,7 +57,7 @@ ROOT_URLCONF = 'helloapp.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:\\Users\\macaf\\Documents\\Python Stuff\\hello\\helloenv\\helloapp\\templates'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
