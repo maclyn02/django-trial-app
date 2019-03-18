@@ -1,3 +1,3 @@
-web: gunicorn --pythonpath path_wsgi-application
+web: gunicorn helloapp:wsgi.application
 
 
