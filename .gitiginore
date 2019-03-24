@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django #
 *.log
 *.pot
@@ -86,3 +87,5 @@ Control.ca-list
 Control.ca-bundle
 Control.system-ca-bundle
 GitHub.sublime-settings
+=======
+>>>>>>> 1c8b80a28976b0e2cef3667c6b86c782be9c199e
